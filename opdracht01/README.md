@@ -3,7 +3,7 @@
 ## Opdracht 1
 
 ### Leerdoelen
-1. [ ] Ik kan met Javascript een variabele toekennen aan de innerHTML van een HTML element.  
+1. [x] Ik kan met Javascript een variabele toekennen aan de innerHTML van een HTML element.  
 
 ### Uitleg
 
