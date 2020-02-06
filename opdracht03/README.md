@@ -5,7 +5,7 @@
 ### Leerdoelen
 1. [x] Ik kan met Javascript een variabele toekennen aan de innerHTML van een HTML element.  
 2. [x] Ik kan met Javascript de achtergrond kleur van een HTML element veranderen door een string toe te kennen aan de `style.backgroundColor` property van een HTML element.  
-3. [ ] Ik kan een vanuit een button in HTML een functie aanspreken in Javascript die de achtergrond kleur van een HTML element veranderd.  
+3. [x] Ik kan een vanuit een button in HTML een functie aanspreken in Javascript die de achtergrond kleur van een HTML element veranderd.  
 
 ### Uitleg
 
