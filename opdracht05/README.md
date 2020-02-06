@@ -7,7 +7,7 @@
 2. [x] Ik kan met Javascript de achtergrond kleur van een HTML element veranderen door een string toe te kennen aan de `style.backgroundColor` property van een HTML element.  
 3. [x] Ik kan een vanuit een button in HTML een functie aanspreken in Javascript die de achtergrond kleur van een HTML element veranderd.  
 4. [x] Ik kan een conditie gebruiken om te testen of een HTML element een bepaalde kleur heeft of niet.  
-5. [ ] Ik maak gebruik van een boolean variabele binnen een conditie.  
+5. [x] Ik maak gebruik van een boolean variabele binnen een conditie.  
 
 ### Uitleg
 
